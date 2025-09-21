@@ -1,0 +1,63 @@
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.number {
+    line-height: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.name {
+    line-height: 0;
+    font-weight: bold;
+}
+
+h1 {
+    background: rgb(139, 114, 238);
+    width: 500px;
+    color: #fff;
+    line-height: 40px;
+}
+
+.bg-item1 {
+    background: rgb(83, 173, 98);
+}
+
+.bg-item2 {
+    background: rgb(30, 227, 210);
+}
+
+.bg-item3 {
+    background: rgb(19, 93, 219);
+}
+
+.bg-item4 {
+    background: rgb(245, 181, 86);
+}
+
+.bg-item5 {
+    background: rgb(245, 115, 100);
+}
+
+.bg-item6 {
+    background: rgb(42, 169, 247);
+}
+
+.bg-item7 {
+    background: rgb(237, 158, 255);
+}
+
+.bg-item8 {
+    background: rgb(243, 111, 247);
+}
+
+.bg-item9 {
+    background: rgba(34, 34, 36, 0.701);
+}
+
+#text-color{
+    color: #fff;
+}
